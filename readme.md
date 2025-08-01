@@ -32,8 +32,8 @@ Hemsidan är deployad på Vercel för optimal prestanda och tillgänglighet.
 ## Kontakt
 
 För frågor om hemsidan, kontakta Mats & Anders Catering:
-- Telefon: 08-123 456 78
-- E-post: info@matsochanders.se
+- Telefon: 0700377459
+- E-post: mhg10mhg@gmail.com
 
 ## Live Demo
 
