@@ -1,0 +1,30 @@
+{
+  "name": "mats-anders-catering",
+  "version": "1.0.0",
+  "description": "Professionell hemsida för Mats & Anders Catering",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "catering",
+    "stockholm",
+    "mat",
+    "evenemang",
+    "företag",
+    "bröllop",
+    "hemsida"
+  ],
+  "author": "Mats & Anders Catering",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mats6102hamberg/Anders-och-Mats-Catering.git"
+  },
+  "homepage": "https://github.com/Mats6102hamberg/Anders-och-Mats-Catering#readme"
+}
